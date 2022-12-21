@@ -1,2 +1,2 @@
 # ankit_portfolio
-Quick link: https://bearerop.github.io/netflix_landing_page/
+Quick link: https://bearerop.github.io/ankit_portfolio/
